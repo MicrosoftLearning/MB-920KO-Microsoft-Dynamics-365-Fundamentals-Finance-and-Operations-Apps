@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '데모 1: Project Operations 가격 책정'
     module: '모듈 5: Microsoft Dynamics 365 Project Operations의 기본 사항 파악'
