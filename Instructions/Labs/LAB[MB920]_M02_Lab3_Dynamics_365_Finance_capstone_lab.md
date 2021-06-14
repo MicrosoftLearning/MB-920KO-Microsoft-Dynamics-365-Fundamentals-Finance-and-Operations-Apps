@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 3: Dynamics 365 Finance 캡스톤 랩'
     module: '모듈 2: Microsoft Dynamics 365 Finance의 기본 사항 파악'
