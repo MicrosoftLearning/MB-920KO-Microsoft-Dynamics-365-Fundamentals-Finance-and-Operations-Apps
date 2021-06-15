@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 6: 생산 주문 만들기'
     module: '모듈 1: Microsoft Dynamics 365 Supply Chain Management의 기본 사항 파악'

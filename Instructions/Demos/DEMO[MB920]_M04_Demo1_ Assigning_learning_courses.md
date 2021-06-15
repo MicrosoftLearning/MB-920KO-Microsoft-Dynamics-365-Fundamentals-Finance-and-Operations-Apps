@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '데모 1: 학습 과정 할당'
     module: '모듈 4: Microsoft Dynamics 365 Human Resources의 기본 사항 파악'

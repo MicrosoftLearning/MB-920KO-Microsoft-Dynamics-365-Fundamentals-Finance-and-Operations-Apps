@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 1: 재무 차원 만들기'
     module: '모듈 2: Microsoft Dynamics 365 Finance의 기본 사항 파악'

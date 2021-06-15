@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 2: 제품 분류 만들기'
     module: '모듈 3: Microsoft Dynamics 365 Commerce의 기본 사항 파악'

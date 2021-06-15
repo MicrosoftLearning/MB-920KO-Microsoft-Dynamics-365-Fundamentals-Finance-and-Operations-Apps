@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 3: Dynamics 365 Commerce 과정 수료 랩'
     module: '모듈 3: Microsoft Dynamics 365 Commerce의 기본 사항 파악'

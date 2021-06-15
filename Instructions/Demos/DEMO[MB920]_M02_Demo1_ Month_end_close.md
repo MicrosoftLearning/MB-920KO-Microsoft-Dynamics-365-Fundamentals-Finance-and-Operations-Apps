@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '데모 1: 월말 결산'
     module: '모듈 2: Microsoft Dynamics 365 Finance의 기본 사항 파악'

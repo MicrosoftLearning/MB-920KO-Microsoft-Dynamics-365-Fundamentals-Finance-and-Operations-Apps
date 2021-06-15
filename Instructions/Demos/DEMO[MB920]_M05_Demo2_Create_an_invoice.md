@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '데모 2: 송장 만들기'
     module: '모듈 5: Microsoft Dynamics 365 Project Operations의 기본 사항 파악'

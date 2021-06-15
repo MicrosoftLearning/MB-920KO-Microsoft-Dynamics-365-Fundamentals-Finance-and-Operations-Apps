@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 2: 작업 영역 및 필터링 기능 살펴보기'
     module: '모듈 1: Microsoft Dynamics 365 Supply Chain Management의 기본 사항 파악'
