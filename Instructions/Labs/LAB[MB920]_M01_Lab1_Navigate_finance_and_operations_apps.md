@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '랩 1: Finance and Operations 앱 탐색'
     module: '모듈 1: Microsoft Dynamics 365 Supply Chain Management의 기본 사항 파악'
@@ -109,11 +109,11 @@ lab:
 
 1. 목록에서 공급업체 중 하나를 강조 표시하고 오른쪽에서 **관련 정보** 메뉴를 선택한 후 제공되는 추가 정보를 검토합니다.
 
-1. 공급업체 목록에서 **Northwind Traders**를 선택합니다.
+1. 공급업체 목록에서 **Acme Office Supplies**를 선택합니다.
 
 1. **그룹** 메뉴를 선택하고 **공급업체 그룹** 열 제목을 선택합니다.
 
-    ![Northwind Traders의 공급업체 그룹 열 제목 스크린샷](./media/m1-common-all-vendor-group-menu.png)
+    ![Acme Office Supplies의 공급업체 그룹 열 제목 스크린샷](./media/m1-common-vendor-group-menu-24493345.png)
 
 1. 대다수 메뉴에서는 정렬과 필터링 기능이 제공됩니다. 필터를 사용하면 원하는 필드 내용을 빠르게 찾을 수 있습니다.
 
