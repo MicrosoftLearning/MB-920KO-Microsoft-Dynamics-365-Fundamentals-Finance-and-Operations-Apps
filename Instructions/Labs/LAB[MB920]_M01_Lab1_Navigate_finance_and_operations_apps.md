@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 1: Finance and Operations 앱 탐색'
     module: '모듈 1: Microsoft Dynamics 365 Supply Chain Management의 기본 사항 파악'
