@@ -1,4 +1,13 @@
-﻿# INF99X: 샘플 과정
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/MB-920T00A-Microsoft-Dynamics-365-Fundamentals-Finance-and-Operations-Apps.ko-kr) on 21 January 2022. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/MB-920T00A-Microsoft-Dynamics-365-Fundamentals-Finance-and-Operations-Apps.ko-kr).
+
+# INF99X: 샘플 과정
 
 - **[최신 학생용 핸드북 및 AllFiles 콘텐츠 다운로드](../../releases/latest)**
 - **MCT입니까?** - [MCT용 GitHub 사용자 가이드](https://microsoftlearning.github.io/MCT-User-Guide-KO/)를 살펴보세요.
